@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">U-SAFE</string>
+
+    <string name="settings">Settings</string>
+    <string name="passphrase">Enter passphrase</string>
+    <string name="validate">Validate</string>
+
+    <string name="user">Specify the type of user:</string>
+    <string name="stud">Student</string>
+    <string name="teach">Teacher</string>
+    <string name="permission">Please accept the following permissions:</string>
+    <string name="mic">Microphone</string>
+    <string name="back">Back</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="done">Done</string>
+
+    <string name="placeholder">PLACEHOLDER</string>
+
+</resources>
